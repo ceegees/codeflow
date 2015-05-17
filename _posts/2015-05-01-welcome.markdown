@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Codeflow Philosophy"
+date:   2015-05-01 02:40:56
+categories: codeflow
+---
+Programming languages are used to convey an idea to a computing unit. Right now most of the programming languages do that job very well . But in the process what happend over a period of time is that, the programming language have moved more "machine" than human.
+
+Codeflow attempts to make communication paradigm more human.
+
